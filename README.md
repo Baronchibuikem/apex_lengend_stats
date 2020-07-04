@@ -26,6 +26,10 @@ Note the node server and vue server has been configured to run concurrently, so 
 
     npm run dev
 
+### Test server
+
+This project is current running on <https://apex-lengends.herokuapp.com/>
+
 ### Authors
 
 Baron Chibuikem
